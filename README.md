@@ -1,15 +1,11 @@
-# Primer intento de Web Scraping con JS
+# Segundo intento de Web Scraping con NODE.JS
 
--La falla se genera al no poder extraer un archivo de una etiqueta en html(esta es la pagina):
+*Utilicé  axios, cheerio, express, intente hacer el webscrapin de la paginaÑ
 
-https://platzi.com/cursos/html-css/opiniones/3/
-
-al parecer estoy jalando mal en esta linea (15) la etiqueta no se corresponde:
-
-const $pagination = document.querySelectorAll('.Pagination-item .Pagination-link') //aqui estoy tomando mal el datoERROR ERROR **********
+'https://www.theguardian.com/uk';
 
 
-problem grabbing html tag in script, line 15
+Espero les sea de utilidad
 
-Estoy probando gitignore
+
 
